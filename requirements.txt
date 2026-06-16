@@ -1,0 +1,15 @@
+# Video-to-Notes Skill Dependencies
+# Install: pip install -r requirements.txt
+
+# Core
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Video download
+yt-dlp>=2024.0.0
+
+# ASR (speech-to-text)
+faster-whisper>=1.0.0
+
+# Image processing
+Pillow>=10.0.0

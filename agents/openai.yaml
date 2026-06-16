@@ -1,0 +1,5 @@
+interface:
+  display_name: "Video to Notes"
+  short_description: "Convert video URLs to structured Markdown notes with AI frame analysis"
+  brand_color: "#8B5CF6"
+  default_prompt: "Use video-to-notes to convert this video into notes"
