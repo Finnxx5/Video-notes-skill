@@ -164,7 +164,8 @@ $env:PYTHONUNBUFFERED=1; python scripts/main.py "https://www.bilibili.com/video/
 ### Bilibili 下载报 HTTP 412
 
 Bilibili 对部分视频有反爬策略。请在 `Cookies/bilibili_cookies.json` 中放入你的浏览器 Cookie（从浏览器开发者工具中提取）。打开浏览器登录B站账号，按下F12,查看network,点击任意网络请求，找到Cookie，复制并交给你的Agent让它自行填写即可。
-![alt text](318ff44ca13f6ae921ead2b120775ab7.png)
+![Uploading 48033cca082afc158e73b998b6380804.png…]()
+
 
 <br />
 
