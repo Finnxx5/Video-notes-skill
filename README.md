@@ -1,4 +1,4 @@
-# Video-Notes-Skill 🎥 → 📝
+# Video-to-Notes-skill 🎥 → 📝
 
 将B站、抖音视频 URL 一键转换为结构化的 Markdown 笔记，自动提取关键帧截图并生成图文并茂的文档。
 

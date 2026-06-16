@@ -1,5 +1,5 @@
 ---
-name: video-notes-skill
+name: Video-to-Notes-skill
 description: >
 ---
 
